@@ -1,6 +1,6 @@
 ---
 title: Weekly Workout 001
-audioUrl: s3://paulkomelus/music/Paul-Komelus-Weekly-Workout-025(DnB).mp3
+audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-025(DnB).mp3
 pubDate: 12 Jan 2020
 duration: 01:00:00
 size: 139
