@@ -2,8 +2,8 @@
   "copyright": "",
   "theme": "light",
   "fundingText": "",
-  "author": "Author's name",
-  "name": "Podcast Name",
+  "author": "Paulkomelus",
+  "name": "Weekly Workout",
   "banner": "/banner.webp",
   "pageSize": 15,
   "fundingUrl": "",
@@ -14,10 +14,9 @@
   "language": "en",
   "link": "https://your-website-url.netlify.app",
   "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "description": "Dive into the finest House and DnB Music.",
   "category": [
-    "Technology",
-    "Business"
+    "Music"
   ],
   "feedSize": ""
 }
