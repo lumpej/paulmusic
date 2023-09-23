@@ -1,6 +1,6 @@
 ---
 title: Weekly Workout 001
-audioUrl: https://ia800505.us.archive.org/15/items/astropod/1%20-%20Trailer%20with%20BG%20%28enhanced%29.ogg
+audioUrl: s3://paulkomelus/music/Paul-Komelus-Weekly-Workout-025(DnB).mp3
 pubDate: 12 Jan 2020
 duration: 01:00:00
 size: 139
