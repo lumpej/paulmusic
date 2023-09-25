@@ -10,8 +10,6 @@ episode: 1
 season: 1
 episodeType: full
 ---
-Lane 8, Nora En Pure, Passenger 10, Camel Phat, ARTBAT, Dirty Vegas, ...
-
 1. Just – Lane 8
 2. You Know What To Do – Approaching Black
 3. Homebound – Nora En Pure
