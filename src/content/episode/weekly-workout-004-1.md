@@ -1,5 +1,5 @@
 ---
-title: Weekly Workout 004
+title: Weekly Workout 005
 audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-005(House).mp3
 pubDate: 23 Feb 2020
 duration: 01:00:00
