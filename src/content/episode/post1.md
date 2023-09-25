@@ -12,4 +12,14 @@ episodeType: full
 ---
 Lane 8, Nora En Pure, Passenger 10, Camel Phat, ARTBAT, Dirty Vegas, ...
 
-1. Tracklist: Just – Lane 8 | You Know What To Do – Approaching Black | Homebound – Nora En Pure | Aura – Avoure | Aquarius – ARTBAT | Global (Club Mix) – Passenger 10 | Midnight Drive – Piemont | Demeter (Original Mix) – Local Dialect | Fibonacci (Original Club Mix) – Nora En Pure | Global (Club Mix) – Passenger 10 | Days Go By (CamelPhat Extended Remix) – Dirty Vegas
+1. Just – Lane 8
+2. You Know What To Do – Approaching Black
+3. Homebound – Nora En Pure
+4. Aura – Avoure
+5. Aquarius – ARTBAT
+6. Global (Club Mix) – Passenger 10
+7. Midnight Drive – Piemont
+8. Demeter (Original Mix) – Local Dialect
+9. Fibonacci (Original Club Mix) – Nora En Pure
+10. Global (Club Mix) – Passenger 10
+11. Days Go By (CamelPhat Extended Remix) – Dirty Vegas
