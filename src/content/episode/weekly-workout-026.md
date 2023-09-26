@@ -1,7 +1,7 @@
 ---
 title: Weekly Workout 026
 audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-026(House).mp3
-pubDate: 26 Sep 2023
+pubDate: 18 Apr 2020
 duration: 01:00:00
 size: 139
 cover: ""
