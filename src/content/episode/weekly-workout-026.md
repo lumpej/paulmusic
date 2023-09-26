@@ -1,6 +1,6 @@
 ---
 title: Weekly Workout 026
-audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-026(DnB).mp3
+audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-026(House).mp3
 pubDate: 26 Sep 2023
 duration: 01:00:00
 size: 139
@@ -10,22 +10,19 @@ episode: 26
 season: 2
 episodeType: full
 ---
-1. Like I Do (feat. James Hersey) - Camo & Krooked
-2. Bang Bang (ft. R. City Selah Sue & Craig David) - DJ Fresh vs. Diplo
-3. Illuminate (Sub Focus x Wilkinson) - Sub Focus/Wilkinson
-4. Mixed Emotions - Netsky
-5. Renaissance (Original Mix) - Culture Shock
-6. Destiny - Netsky
-7. Desire - Sub Focus, Dimension
-8. I Need - Wilkinson feat Hayla
-9. Waiting All Day To Get To You - Netsky
-10. Burn (ft. Kathy Brown) - Brookes Brothers & Kove
-11. I Need A Dollar - Deekline & Ed Solo
-12. Colours - Andromedik
-13. Pictures In My Head - High Contrast Remix - MJ Cole
-14. Believe feat. Hebe Vrijhof (Original Mix) - Maduk
-15. Float - Netsky
-16. Heavy - Tom Finster
-17. Power - Netsky
-18. Bruises - Fox Stevenson
-19. Parallel (ft. Grafix) - Metrik
+1. Oh, Miles - Lane 8
+2. SFB - Cristoph
+3. Slave Amore - Volkoder
+4. Let It Go (with Marc E. Bassy) (Vintage Culture Extended Remix) - Louie Vega
+5. Turn Around (Hey What's Wrong with You) (Robosonic Extended Remix) - Phats & Small
+6. Tell Me - Tinlicker
+7. Run - Lane 8
+8. Breezeblocks (Tinlicker Remix) - alt-J
+9. Grains - Yotto
+10. Home Away From Home (feat. KARRA) - Le Youth
+11. Coffee & A Coke (feat. Hannah Boleyn) - PBH & JACK
+12. Bridged By A Lightwave - deadmau5
+13. Home (Club Mix) - Solomun
+14. The Grail (Extended Mix) - Passenger 10
+15. Channel 43 - deadmau5
+16. Colours - Mat Zo
