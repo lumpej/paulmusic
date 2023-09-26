@@ -6,7 +6,7 @@ duration: 01:00:00
 size: 139
 cover: ""
 explicit: false
-episode: 25
+episode: 26
 season: 2
 episodeType: full
 ---
