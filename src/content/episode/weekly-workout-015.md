@@ -1,6 +1,6 @@
 ---
 title: Weekly Workout 015
-audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-015(House).mp3
+audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-015(FunkyHouse).mp3
 pubDate: 07 Jun 2020
 duration: 01:00:00
 size: 139
