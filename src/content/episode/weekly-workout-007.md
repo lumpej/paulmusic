@@ -1,24 +1,26 @@
 ---
-title: Weekly Workout 007
-audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-007(House).mp3
-pubDate: 15 Mar 2020
+title: Weekly Workout 008
+audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-008(House).mp3
+pubDate: 29 Mar 2020
 duration: 01:00:00
 size: 139
 cover: ""
-explicit: true
-episode: 7
+explicit: false
+episode: 8
 season: 1
 episodeType: full
 ---
-1. Lioness - Club Mix - Nora En Pure
-2. Tourist - Apollo
-3. My Eyes (Original Mix) - Nihil Young, Paige
-4. Aura - Avoure
-5. Blurred (Original Mix) - Kiasmos
-6. Dry Sobbing - Club MixOriginal  - Nora En Pure
-7. AKA AKA, Maxiz - Need You - AKA AKA, Maxiz
-8. Be Someone (Extended Mix) » progressivehousedj.com - CamelPhat, Jake Bugg » progressivehousedj.com
-9. Pulse (Extended Mix) - Local Dialect
-10. Fantasy - Nora En Pure Remix - Sofi Tukker
-11. Treat You Better - Cassian Extended Edit - RÜFÜS DU SOL
-12. Linked (Original Mix) - Bonobo
+1. Run (Live Mix) - Tourist
+2. Sueno de Solentiname (Rampa Version) - Mano Negra feat. Made in TLV
+3. Quizas - CASUAK SX
+4. Nhii (Iorie & Madmotormiquel Remix) - Feather feat. Pippermint  
+5. Bunny (Original Mix) - Tourist
+6. Linked (Original Mix) - Bonobo
+7. Can't Stop (Original Mix) - Eagles & Butterflies feat. Coloray 
+8. Blurred (Original Mix) - Kiasmos
+9. Lost & Found - Moonbootica
+10. Feel My Butterfly (Jamie Jones Tribute To Aaron Carl Remix) - Nina Kraviz, Parris Mitchell
+11. Ashes in the Wind (Original Mix) - Sebastien Leger
+12. Go Slow (Club Mix) - Kaskade, Romeo, Gorgon City
+13. For The People (Sonny Fodera Extended Remix) - Robosonic, EPMD
+14. Tied Up - Moon Boots feat. Steven Klavier
