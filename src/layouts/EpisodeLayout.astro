@@ -4,6 +4,7 @@ import dayjs from "dayjs";
 import localizedFormat from "dayjs/plugin/localizedFormat";
 import HeaderCard from "../components/headerCard/HeaderCard.astro";
 import astropodConfig from "../../.astropod/astropod.config.json";
+import { ViewTransitions } from 'astro:transitions';
 
 const { title, explicit, pubDate, cover, description } = Astro.props;
 dayjs.extend(localizedFormat);
@@ -19,3 +20,4 @@ const displayDate = dayjs(pubDate).format("ll");
     </article>
   </main>
 </BaseLayout>
+<ViewTransitions />
