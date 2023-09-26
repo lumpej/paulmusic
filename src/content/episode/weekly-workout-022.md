@@ -1,7 +1,7 @@
 ---
 title: Weekly Workout 022
 audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-022(House).mp3
-pubDate: 26 Sep 2023
+pubDate: 03 Nov 2020
 duration: 01:00:00
 size: 139
 cover: ""
