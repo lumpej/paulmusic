@@ -7,7 +7,6 @@ import localizedFormat from "dayjs/plugin/localizedFormat";
 dayjs.extend(localizedFormat);
 import PlayIcon from "./icons/playIcon.astro";
 import PauseIcon from "./icons/pauseIcon.astro";
-import { ViewTransitions } from 'astro:transitions';
 
 let cover_url = cover ? cover : astropodConfig.cover;
 const displayDate = dayjs(pubDate).format("ll");
@@ -65,4 +64,3 @@ const displayDuration = formatTime(duration);
     display: none;
   }
 </style>
-<ViewTransitions />
