@@ -2,6 +2,7 @@
 import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
 import astropodConfig from "../../.astropod/astropod.config.json";
+import { fade } from 'astro:transitions';
 
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 
@@ -10,7 +11,7 @@ const { image, title = astropodConfig.name, description = astropodConfig.descrip
 
 <!DOCTYPE html>
 <html lang="en" data-theme={astropodConfig.theme}>
-  <head>
+  <header transition:animate={fade({ duration: '0.4s' })}>
     <BaseHead title={title} description={description} image={image} />
   </head>
   <body class="bg-base-200 min-h-screen">
