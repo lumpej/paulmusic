@@ -1,8 +1,10 @@
 ---
 import EpisodeLayout from "../layouts/EpisodeLayout.astro";
 import astropodConfig from "../../.astropod/astropod.config.json";
+import {ViewTransitions} from 'astro:transitions';
 ---
 
 <EpisodeLayout title="About" description={astropodConfig.description} cover={astropodConfig.cover}>
+<ViewTransitions />
   {astropodConfig.description}
 </EpisodeLayout>
