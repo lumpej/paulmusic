@@ -1,6 +1,6 @@
 ---
 title: Weekly Workout 019
-audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-019(House).mp3
+audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/Paul-Komelus-Weekly-Workout-019(FunkyHouse).mp3
 pubDate: 11 Oct 2020
 duration: 01:00:00
 size: 139
