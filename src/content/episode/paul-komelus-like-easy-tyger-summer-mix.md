@@ -4,7 +4,7 @@ audioUrl: https://paulkomelus.s3.eu-central-1.amazonaws.com/music/EasyTyger-Summ
 pubDate: 28 Sep 2023
 duration: 01:00:00
 size: 70
-cover: /cover-like.jpg
+cover: /cover-like-2.jpg
 explicit: false
 episodeType: full
 ---
